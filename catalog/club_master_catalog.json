@@ -1,0 +1,716 @@
+{
+  "catalog_name": "Weekend Film Club Master Catalog",
+  "about": "Every film the weekend film club has screened or queued, exactly as logged by club members. This file is the club's single source of truth; spellings, punctuation and abbreviations are kept as logged on purpose.",
+  "rows": [
+    {
+      "title": "The Matrix",
+      "released": 1999,
+      "genre": [
+        "Sci-Fi"
+      ],
+      "director": "The Wachowskis",
+      "status": "Watched",
+      "runtime": 136,
+      "monthly_pick": false
+    },
+    {
+      "title": "Rashomon",
+      "released": 1950,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Akira Kurosawa",
+      "status": "Watched",
+      "runtime": 88,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Italian Job",
+      "released": 2003,
+      "genre": [
+        "Action",
+        "Crime"
+      ],
+      "director": "F. Gary Gray",
+      "status": "Watched",
+      "runtime": 111,
+      "monthly_pick": false
+    },
+    {
+      "title": "Spirited Away",
+      "released": 2001,
+      "genre": [
+        "Animation",
+        "Fantasy"
+      ],
+      "director": "Hayao Miyazaki",
+      "status": "Watched",
+      "runtime": 125,
+      "monthly_pick": false
+    },
+    {
+      "title": "Duck Soup",
+      "released": 1933,
+      "genre": [
+        "Comedy"
+      ],
+      "director": "Leo McCarey",
+      "status": "Watched",
+      "runtime": 68,
+      "monthly_pick": false
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "released": 2004,
+      "genre": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "director": "Michel Gondry",
+      "status": "Watched",
+      "runtime": 108,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "released": 1966,
+      "genre": [
+        "Western"
+      ],
+      "director": "Sergio Leone",
+      "status": "Watched",
+      "runtime": 161,
+      "monthly_pick": false
+    },
+    {
+      "title": "Moon",
+      "released": 2009,
+      "genre": [
+        "sci-fi"
+      ],
+      "director": "Duncan Jones",
+      "status": "Wishlist",
+      "runtime": 97,
+      "monthly_pick": false
+    },
+    {
+      "title": "Heat",
+      "released": 1995,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Michael Mann",
+      "status": "Watched",
+      "runtime": 170,
+      "monthly_pick": false
+    },
+    {
+      "title": "Sherlock Jr.",
+      "released": 1924,
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "director": "Buster Keaton",
+      "status": "Watched",
+      "runtime": 45,
+      "monthly_pick": false
+    },
+    {
+      "title": "Sin City",
+      "released": 2005,
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Robert Rodriguez & Frank Miller",
+      "status": "Watched",
+      "runtime": 124,
+      "monthly_pick": false
+    },
+    {
+      "title": "La La Land",
+      "released": 2016,
+      "genre": [
+        "Romance",
+        "Music"
+      ],
+      "director": "Damien Chazelle",
+      "status": "Watched",
+      "runtime": 128,
+      "monthly_pick": false
+    },
+    {
+      "title": "Seven Samurai",
+      "released": 1954,
+      "genre": [
+        "Drama",
+        "Adventure"
+      ],
+      "director": "Akira Kurosawa",
+      "status": "Watched",
+      "runtime": 207,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Host",
+      "released": 2006,
+      "genre": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "director": "Bong Joon-ho",
+      "status": "Watched",
+      "runtime": 120,
+      "monthly_pick": false
+    },
+    {
+      "title": "Winter's Bone",
+      "released": 2010,
+      "genre": [
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Debra Granik",
+      "status": "Watched",
+      "runtime": 100,
+      "monthly_pick": false
+    },
+    {
+      "title": "Memories of Murder",
+      "released": 2003,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Bong Joon－ho",
+      "status": "Wishlist",
+      "runtime": 132,
+      "monthly_pick": false
+    },
+    {
+      "title": "Knives Out",
+      "released": 2019,
+      "genre": [
+        "Mystery",
+        "Comedy"
+      ],
+      "director": "Rian Johnson",
+      "status": "Watched",
+      "runtime": 130,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Cabinet of Dr. Caligari",
+      "released": 1920,
+      "genre": [
+        "Horror",
+        "Mystery"
+      ],
+      "director": "Robert Wiene",
+      "status": "Watched",
+      "runtime": 76,
+      "monthly_pick": false
+    },
+    {
+      "title": "Pan’s Labyrinth",
+      "released": 2006,
+      "genre": [
+        "Fantasy",
+        "Drama"
+      ],
+      "director": "Guillermo del Toro",
+      "status": "Watched",
+      "runtime": 118,
+      "monthly_pick": false
+    },
+    {
+      "title": "Whiplash",
+      "released": 2014,
+      "genre": [
+        "Drama",
+        "Music"
+      ],
+      "director": "Damien Chazelle",
+      "status": "Watched",
+      "runtime": 106,
+      "monthly_pick": false
+    },
+    {
+      "title": "Zack Snyder's Justice League",
+      "released": 2021,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Zack Snyder",
+      "status": "Wishlist",
+      "runtime": 242,
+      "monthly_pick": false
+    },
+    {
+      "title": "Paprika",
+      "released": 2006,
+      "genre": [
+        "Animation",
+        "Sci-Fi"
+      ],
+      "director": "Satoshi Kon",
+      "status": "Wishlist",
+      "runtime": 90,
+      "monthly_pick": false
+    },
+    {
+      "title": "North by Northwest",
+      "released": 1959,
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Alfred Hitchcock",
+      "status": "Watched",
+      "runtime": 136,
+      "monthly_pick": false
+    },
+    {
+      "title": "Ben-Hur",
+      "released": 1959,
+      "genre": [
+        "Adventure",
+        "Drama"
+      ],
+      "director": "William Wyler",
+      "status": "Watched",
+      "runtime": 180,
+      "monthly_pick": false
+    },
+    {
+      "title": "Us",
+      "released": 2019,
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "director": "Jordan Peele",
+      "status": "Watched",
+      "runtime": 116,
+      "monthly_pick": false
+    },
+    {
+      "title": "City of God",
+      "released": 2002,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Fernando Meirelles & Kátia Lund",
+      "status": "Watched",
+      "runtime": 130,
+      "monthly_pick": false
+    },
+    {
+      "title": "Mad Max：Fury Road",
+      "released": 2015,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "George Miller",
+      "status": "Wishlist",
+      "runtime": 120,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Irishman",
+      "released": 2019,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Martin Scorsese",
+      "status": "Watched",
+      "runtime": 209,
+      "monthly_pick": false
+    },
+    {
+      "title": "Her",
+      "released": 2013,
+      "genre": [
+        "Romance",
+        "Science Fiction"
+      ],
+      "director": "Spike Jonze",
+      "status": "Watched",
+      "runtime": 126,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Third Man",
+      "released": 1949,
+      "genre": [
+        "Film-Noir"
+      ],
+      "director": "Carol Reed",
+      "status": "Watched",
+      "runtime": 104,
+      "monthly_pick": false
+    },
+    {
+      "title": "Speed Racer",
+      "released": 2008,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Lana Wachowski & Lilly Wachowski",
+      "status": "Watched",
+      "runtime": 135,
+      "monthly_pick": false
+    },
+    {
+      "title": "Jojo Rabbit",
+      "released": 2019,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Taika Waititi",
+      "status": "Watched",
+      "runtime": 108,
+      "monthly_pick": false
+    },
+    {
+      "title": "Blade Runner 2049",
+      "released": 2017,
+      "genre": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "director": "Denis Villeneuve",
+      "status": "Watched",
+      "runtime": 164,
+      "monthly_pick": false
+    },
+    {
+      "title": "Princess Mononoke",
+      "released": 1997,
+      "genre": [
+        "Animation",
+        "Adventure"
+      ],
+      "director": "Hayao Miyazaki",
+      "status": "Watched",
+      "runtime": 134,
+      "monthly_pick": false
+    },
+    {
+      "title": "Touch of Evil",
+      "released": 1958,
+      "genre": [
+        "Film Noir"
+      ],
+      "director": "Orson Welles",
+      "status": "Watched",
+      "runtime": 95,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "released": 2013,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Martin Scorsese",
+      "status": "Watched",
+      "runtime": 179,
+      "monthly_pick": false
+    },
+    {
+      "title": "Ex Machina",
+      "released": 2014,
+      "genre": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "director": "Alex Garland",
+      "status": "Watched",
+      "runtime": 108,
+      "monthly_pick": false
+    },
+    {
+      "title": "Society of the Snow",
+      "released": 2023,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "J.A. Bayona",
+      "status": "Wishlist",
+      "runtime": 144,
+      "monthly_pick": false
+    },
+    {
+      "title": "Fargo",
+      "released": 1996,
+      "genre": [
+        "Crime",
+        "Comedy"
+      ],
+      "director": "Joel Coen & Ethan Coen",
+      "status": "Watched",
+      "runtime": 98,
+      "monthly_pick": false
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "released": 1988,
+      "genre": [
+        "Animation",
+        "Fantasy"
+      ],
+      "director": "Hayao Miyazaki",
+      "status": "Watched",
+      "runtime": 86,
+      "monthly_pick": false
+    },
+    {
+      "title": "Oldboy",
+      "released": 2003,
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "director": "Park Chan-wook",
+      "status": "Watched",
+      "runtime": 120,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Sixth Sense",
+      "released": 1999,
+      "genre": [
+        "Thriller"
+      ],
+      "director": "M. Night Shyamalan",
+      "status": "Watched",
+      "runtime": 107,
+      "monthly_pick": false
+    },
+    {
+      "title": "Primer",
+      "released": 2004,
+      "genre": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "director": "Shane Carruth",
+      "status": "Wishlist",
+      "runtime": 77,
+      "monthly_pick": false
+    },
+    {
+      "title": "Hot Fuzz",
+      "released": 2007,
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "director": "Edgar Wright",
+      "status": "Watched",
+      "runtime": 121,
+      "monthly_pick": false
+    },
+    {
+      "title": "Hunt for the Wilderpeople",
+      "released": 2016,
+      "genre": [
+        "Comedy",
+        "Adventure"
+      ],
+      "director": "Taika Waititi",
+      "status": "Watched",
+      "runtime": 101,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Impossible",
+      "released": 2012,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Juan Antonio Bayona",
+      "status": "Watched",
+      "runtime": 113,
+      "monthly_pick": false
+    },
+    {
+      "title": "Grindhouse",
+      "released": 2007,
+      "genre": [
+        "Action",
+        "Horror"
+      ],
+      "director": "Robert Rodriguez & Quentin Tarantino",
+      "status": "Watched",
+      "runtime": 191,
+      "monthly_pick": false
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "released": 1962,
+      "genre": [
+        "Adventure",
+        "Drama"
+      ],
+      "director": "David Lean",
+      "status": "Watched",
+      "runtime": 216,
+      "monthly_pick": false
+    },
+    {
+      "title": "Get Out",
+      "released": 2017,
+      "genre": [
+        "Horror",
+        "Mystery"
+      ],
+      "director": "Jordan Peele",
+      "status": "Watched",
+      "runtime": 104,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "released": 2021,
+      "genre": [
+        "Sci-Fi"
+      ],
+      "director": "Lana Wachowski",
+      "status": "Wishlist",
+      "runtime": 148,
+      "monthly_pick": false
+    },
+    {
+      "title": "Logan's Run",
+      "released": 1976,
+      "genre": [
+        "Sci-Fi"
+      ],
+      "director": "Michael Anderson",
+      "status": "Watched",
+      "runtime": 119,
+      "monthly_pick": false
+    },
+    {
+      "title": "A Nightmare on Elm Street",
+      "released": 1984,
+      "genre": [
+        "Horror"
+      ],
+      "director": "Wes Craven",
+      "status": "Watched",
+      "runtime": 91,
+      "monthly_pick": false
+    },
+    {
+      "title": "Mad Max 2: The Road Warrior",
+      "released": 1981,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "George Miller",
+      "status": "Watched",
+      "runtime": 96,
+      "monthly_pick": false
+    },
+    {
+      "title": "No Country for Old Men",
+      "released": 2007,
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Joel Coen & Ethan Coen",
+      "status": "Watched",
+      "runtime": 122,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Handmaiden",
+      "released": 2016,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Park Chan-wook",
+      "status": "Watched",
+      "runtime": 145,
+      "monthly_pick": false
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "released": 2014,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Wes Anderson",
+      "status": "Watched",
+      "runtime": 99,
+      "monthly_pick": false
+    },
+    {
+      "title": "Shaun of the Dead",
+      "released": 2004,
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "director": "Edgar Wright",
+      "status": "Watched",
+      "runtime": 99,
+      "monthly_pick": false
+    },
+    {
+      "title": "Sicario",
+      "released": 2015,
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Denis Villeneuve",
+      "status": "Watched",
+      "runtime": 121,
+      "monthly_pick": false
+    },
+    {
+      "title": "Parasite",
+      "released": 2019,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Bong Joon-ho",
+      "status": "Watched",
+      "runtime": 132,
+      "monthly_pick": false
+    },
+    {
+      "title": "Inception",
+      "released": 2010,
+      "genre": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "director": "Christopher Nolan",
+      "status": "Wishlist",
+      "runtime": 148,
+      "monthly_pick": true
+    }
+  ]
+}
